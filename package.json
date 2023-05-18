@@ -1,0 +1,13 @@
+{
+  "name": "ClothesShopBE",
+  "version": "1.0.0",
+  "description": "backend of clothes shop",
+  "main": "server.js",
+  "scripts": {},
+  "repository": "https://github.com/MHieu128/ClothesShopBE.git",
+  "author": "HieuLM",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
